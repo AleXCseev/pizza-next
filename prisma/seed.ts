@@ -144,7 +144,7 @@ async function up() {
           {
             userId: 2,
             totalAmount: 0,
-            token: '222222',
+            token: '22222',
           },
         ],
     });
